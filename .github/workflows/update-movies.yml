@@ -1,0 +1,55 @@
+name: Update Movie Information
+
+on:
+  schedule:
+    # 毎日朝7時（JST）= 22時（UTC）に実行
+    - cron: '0 22 * * *'
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  update-movies:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies
+      run: |
+        npm init -y
+        npm install cheerio axios
+        
+    - name: Run movie update script
+      run: node update-movies.js
+      
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "🎬 映画情報を自動更新 $(date '+%Y-%m-%d %H:%M JST')"
+        git push
+        
+    - name: Create status log
+      run: |
+        echo "$(date '+%Y-%m-%d %H:%M JST'): 映画情報更新実行" >> update-log.txt
+        if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+          echo "  → 更新あり" >> update-log.txt
+        else
+          echo "  → 変更なし" >> update-log.txt
+        fi
