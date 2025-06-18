@@ -1,0 +1,16 @@
+{
+  "name": "fukuoka-cinema-info",
+  "version": "1.0.0",
+  "description": "福岡市内7館の上映情報をまとめてチェックできるサイトです。",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0"
+  }
+}
