@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>福岡映画情報</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎬 福岡映画情報</h1>
+            <p>市内7館の上映情報をまとめてチェック</p>
+        </div>
+
+        <div class="controls">
+            <div class="search-section">
+                <input type="text" class="search-input" id="movieSearch" placeholder="映画タイトルを検索...">
+                <button class="btn btn-primary" onclick="searchMovie()">検索</button>
+                <button class="btn btn-primary" onclick="loadCurrentMovies()">現在上映中</button>
+            </div>
+            
+            <div class="filter-section">
+                <span>並び替え:</span>
+                <select class="filter-select" id="sortSelect">
+                    <option value="release_date">公開日順</option>
+                    <option value="popularity">人気順</option>
+                    <option value="title">タイトル順</option>
+                    <option value="vote_average">評価順</option>
+                </select>
+                
+                <span>ジャンル:</span>
+                <select class="filter-select" id="genreSelect">
+                    <option value="">すべて</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="loading" class="loading" style="display: none;">
+            映画情報を読み込み中...
+        </div>
+
+        <div id="error" class="error" style="display: none;"></div>
+
+        <div id="moviesGrid" class="movies-grid"></div>
+    </div>
+
+    <!-- 映画詳細モーダル -->
+    <div id="movieDetail" class="movie-detail">
+        <div class="detail-content">
+            <button class="close-btn" onclick="closeDetail()">&times;</button>
+            <div class="detail-header">
+                <img id="detailPoster" class="detail-poster" src="" alt="">
+                <div class="detail-info">
+                    <h2 id="detailTitle"></h2>
+                    <div class="detail-meta" id="detailRelease"></div>
+                    <div class="detail-meta" id="detailDirector"></div>
+                    <div class="detail-meta" id="detailCast"></div>
+                    <div class="detail-meta" id="detailGenres"></div>
+                    <div class="detail-meta" id="detailRating"></div>
+                    <a id="detailTrailer" class="trailer-btn" target="_blank">予告編を見る</a>
+                </div>
+            </div>
+            <div class="detail-overview" id="detailOverview"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
