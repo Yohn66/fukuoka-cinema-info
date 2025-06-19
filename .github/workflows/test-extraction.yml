@@ -25,4 +25,4 @@ jobs:
         npm install cheerio axios
         
     - name: Run improved extraction test
-      run: node test-improved-extraction.js
+      run: node test-perfected-extraction.js
