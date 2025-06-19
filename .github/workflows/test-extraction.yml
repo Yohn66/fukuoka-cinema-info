@@ -1,0 +1,28 @@
+name: Test Movie Extraction
+
+on:
+  workflow_dispatch: # 手動実行のみ
+
+jobs:
+  test-extraction:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: read
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+        
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Install dependencies
+      run: |
+        npm init -y
+        npm install cheerio axios
+        
+    - name: Run extraction test
+      run: node test-movie-extraction.js
