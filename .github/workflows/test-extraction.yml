@@ -1,10 +1,10 @@
-name: Test Movie Extraction
+name: Test Improved Movie Extraction
 
 on:
   workflow_dispatch: # 手動実行のみ
 
 jobs:
-  test-extraction:
+  test-improved-extraction:
     runs-on: ubuntu-latest
     
     permissions:
@@ -24,5 +24,5 @@ jobs:
         npm init -y
         npm install cheerio axios
         
-    - name: Run extraction test
-      run: node test-movie-extraction.js
+    - name: Run improved extraction test
+      run: node test-improved-extraction.js
