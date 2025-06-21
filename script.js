@@ -120,7 +120,7 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "かくかくしかじか": [
+        "ミッション：インポッシブル ファイナル・レコニング": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "KBCシネマ",
@@ -129,7 +129,7 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "ミッション：インポッシブル ファイナル・レコニング": [
+        "かくかくしかじか": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "KBCシネマ",
@@ -194,6 +194,13 @@ const currentMoviesWithTheaters = {
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡"
         ],
+        "機動戦士Gundam GQuuuuuuX Beginning": [
+            "T・ジョイ博多",
+            "ユナイテッド・シネマ キャナルシティ",
+            "ユナイテッド・シネマ ふくおかももち",
+            "TOHOシネマズららぽーと福岡",
+            "TOHOシネマズ天神・ソラリア館"
+        ],
         "BADBOYS THE MOVIE": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
@@ -203,20 +210,13 @@ const currentMoviesWithTheaters = {
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ"
         ],
-        "機動戦士Gundam GQuuuuuuX Beginning": [
-            "T・ジョイ博多",
-            "ユナイテッド・シネマ キャナルシティ",
-            "ユナイテッド・シネマ ふくおかももち",
-            "TOHOシネマズららぽーと福岡",
-            "TOHOシネマズ天神・ソラリア館"
-        ],
         "神椿市建設中。魔女の娘 Witchling": [
             "T・ジョイ博多"
         ],
-        "死神遣いの事件帖 終（ファイナル）": [
+        "青春イノシシ ATARASHII GAKKO! THE MOVIE": [
             "T・ジョイ博多"
         ],
-        "青春イノシシ ATARASHII GAKKO! THE MOVIE": [
+        "死神遣いの事件帖 終（ファイナル）": [
             "T・ジョイ博多"
         ],
         "ヒプノシスマイク Division Rap Battle": [
@@ -456,12 +456,6 @@ const currentMoviesWithTheaters = {
             "KBCシネマ"
         ],
         "季節はこのまま": [
-            "KBCシネマ"
-        ],
-        "NN4444": [
-            "KBCシネマ"
-        ],
-        "オーガスト・マイ・ヘヴン": [
             "KBCシネマ"
         ],
         "秘顔 ひがん": [
