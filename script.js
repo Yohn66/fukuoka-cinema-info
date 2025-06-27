@@ -308,7 +308,7 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "でっちあげ　殺人教師と呼ばれた男": [
+        "たった1秒のシーンが爆発的に話題になった映画": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "KBCシネマ",
@@ -317,7 +317,7 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "たった1秒のシーンが爆発的に話題になった映画": [
+        "でっちあげ　殺人教師と呼ばれた男": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "KBCシネマ",
@@ -482,9 +482,6 @@ const currentMoviesWithTheaters = {
         "パーティーガール": [
             "KBCシネマ"
         ],
-        "日の丸 寺山修司40年目の挑発": [
-            "KBCシネマ"
-        ],
         "アスファルト・シティ": [
             "kino cinema天神"
         ],
@@ -512,18 +509,18 @@ const currentMoviesWithTheaters = {
         "テルマがゆく！ 93歳のやさしいリベンジ": [
             "kino cinema天神"
         ],
-        "ブリジット・ジョーンズの日記": [
-            "kino cinema天神"
-        ],
         "トワイライト・ウォリアーズ 決戦！九龍城砦": [
             "kino cinema天神"
         ],
-        "パディントン 消えた黄金郷の秘密": [
+        "ブリジット・ジョーンズの日記": [
             "kino cinema天神"
         ],
         "羊たちの沈黙": [
             "kino cinema天神",
             "TOHOシネマズららぽーと福岡"
+        ],
+        "パディントン 消えた黄金郷の秘密": [
+            "kino cinema天神"
         ],
         "フェルメール The Greatest Exhibition アート・オン・スクリーン特別編": [
             "kino cinema天神"
