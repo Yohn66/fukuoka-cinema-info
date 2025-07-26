@@ -57,9 +57,11 @@ const currentMoviesWithTheaters = {
         "事故物件ゾク 恐い間取り": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
+            "KBCシネマ",
             "kino cinema天神",
             "ユナイテッド・シネマ ふくおかももち",
-            "TOHOシネマズららぽーと福岡"
+            "TOHOシネマズららぽーと福岡",
+            "TOHOシネマズ天神・ソラリア館"
         ],
         "作品情報を見る": [
             "T・ジョイ博多",
@@ -70,16 +72,16 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "木の上の軍隊": [
-            "T・ジョイ博多",
-            "ユナイテッド・シネマ キャナルシティ",
-            "ユナイテッド・シネマ ふくおかももち"
-        ],
         "ファンタスティック4 ファースト・ステップ": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡"
+        ],
+        "木の上の軍隊": [
+            "T・ジョイ博多",
+            "ユナイテッド・シネマ キャナルシティ",
+            "ユナイテッド・シネマ ふくおかももち"
         ],
         "BTS MAP OF THE SOUL ON:E": [
             "T・ジョイ博多"
@@ -146,12 +148,12 @@ const currentMoviesWithTheaters = {
             "ユナイテッド・シネマ キャナルシティ",
             "ユナイテッド・シネマ ふくおかももち"
         ],
-        "LUPIN THE IIIRD THE MOVIE 不死身の血族": [
-            "T・ジョイ博多"
-        ],
         "この夏の星を見る": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ"
+        ],
+        "LUPIN THE IIIRD THE MOVIE 不死身の血族": [
+            "T・ジョイ博多"
         ],
         "ミッション：インポッシブル ファイナル・レコニング": [
             "T・ジョイ博多",
@@ -183,19 +185,16 @@ const currentMoviesWithTheaters = {
         "KING OF PRISM Your Endless Call み～んなきらめけ！プリズム☆ツアーズ": [
             "T・ジョイ博多"
         ],
-        "HYBE CINEMA NORAEBANG": [
-            "T・ジョイ博多"
-        ],
         "BTS ARMY：FOREVER WE ARE YOUNG": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡"
         ],
-        "ゲキ×シネ「バサラオ」": [
+        "HYBE CINEMA NORAEBANG": [
             "T・ジョイ博多"
         ],
-        "ヒプノシスマイク Division Rap Battle": [
+        "ゲキ×シネ「バサラオ」": [
             "T・ジョイ博多"
         ],
         "注目作品ランキング": [
@@ -366,10 +365,10 @@ const currentMoviesWithTheaters = {
         "私の見た世界": [
             "KBCシネマ"
         ],
-        "ハルビン": [
+        "「桐島です」": [
             "KBCシネマ"
         ],
-        "「桐島です」": [
+        "ハルビン": [
             "KBCシネマ"
         ],
         "それでも私は Though I'm His Daughter": [
@@ -396,18 +395,21 @@ const currentMoviesWithTheaters = {
         "罪人たち": [
             "kino cinema天神"
         ],
-        "教皇選挙": [
-            "kino cinema天神"
-        ],
         "トワイライト・ウォリアーズ 決戦！九龍城砦": [
             "kino cinema天神"
         ],
-        "クリムト＆THE KISS アート・オン・スクリーン特別編": [
+        "教皇選挙": [
             "kino cinema天神"
         ],
         "天使にラブ・ソングを…": [
             "kino cinema天神",
             "TOHOシネマズららぽーと福岡"
+        ],
+        "クリムト＆THE KISS アート・オン・スクリーン特別編": [
+            "kino cinema天神"
+        ],
+        "ゼンブ・オブ・トーキョー": [
+            "kino cinema天神"
         ],
         "スタントマン 武替道": [
             "ユナイテッド・シネマ ふくおかももち"
