@@ -69,17 +69,17 @@ const currentMoviesWithTheaters = {
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡"
         ],
-        "BTS ARMY：FOREVER WE ARE YOUNG": [
-            "T・ジョイ博多",
-            "ユナイテッド・シネマ キャナルシティ",
-            "ユナイテッド・シネマ ふくおかももち",
-            "TOHOシネマズららぽーと福岡"
-        ],
         "アンティル・ドーン": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "kino cinema天神",
             "ユナイテッド・シネマ ふくおかももち"
+        ],
+        "BTS ARMY：FOREVER WE ARE YOUNG": [
+            "T・ジョイ博多",
+            "ユナイテッド・シネマ キャナルシティ",
+            "ユナイテッド・シネマ ふくおかももち",
+            "TOHOシネマズららぽーと福岡"
         ],
         "SEVENTEEN WORLD TOUR [BE THE SUN]": [
             "T・ジョイ博多"
@@ -162,10 +162,10 @@ const currentMoviesWithTheaters = {
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡"
         ],
-        "三日葬 サミルチャン": [
+        "JUNK WORLD": [
             "T・ジョイ博多"
         ],
-        "JUNK WORLD": [
+        "三日葬 サミルチャン": [
             "T・ジョイ博多"
         ],
         "KING OF PRISM Your Endless Call み～んなきらめけ！プリズム☆ツアーズ": [
@@ -379,10 +379,10 @@ const currentMoviesWithTheaters = {
             "kino cinema天神",
             "TOHOシネマズららぽーと福岡"
         ],
-        "ゼンブ・オブ・トーキョー": [
+        "シネマ歌舞伎 棒しばり": [
             "kino cinema天神"
         ],
-        "シネマ歌舞伎 棒しばり": [
+        "ゼンブ・オブ・トーキョー": [
             "kino cinema天神"
         ],
         "スタントマン 武替道": [
