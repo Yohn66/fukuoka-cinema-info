@@ -343,9 +343,6 @@ const currentMoviesWithTheaters = {
         "パルテノペ ナポリの宝石": [
             "KBCシネマ"
         ],
-        "入国審査": [
-            "KBCシネマ"
-        ],
         "アイム・スティル・ヒア": [
             "KBCシネマ"
         ],
