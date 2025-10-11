@@ -57,6 +57,8 @@ const currentMoviesWithTheaters = {
         "秒速5センチメートル": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
+            "KBCシネマ",
+            "kino cinema天神",
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
@@ -191,13 +193,13 @@ const currentMoviesWithTheaters = {
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ"
         ],
-        "ラスト・ブレス": [
-            "T・ジョイ博多",
-            "kino cinema天神"
-        ],
         "THE FIRST SLAM DUNK": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ"
+        ],
+        "ラスト・ブレス": [
+            "T・ジョイ博多",
+            "kino cinema天神"
         ],
         "NANA": [
             "T・ジョイ博多"
@@ -349,10 +351,10 @@ const currentMoviesWithTheaters = {
         "層間騒音": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
-        "君の声を聴かせて": [
+        "シークレット・メロディ": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
-        "シークレット・メロディ": [
+        "君の声を聴かせて": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
         "テレビの中に入りたい": [
@@ -373,10 +375,10 @@ const currentMoviesWithTheaters = {
         "ファンファーレ！ふたつの音": [
             "KBCシネマ"
         ],
-        "ブライアン・エプスタイン 世界最高のバンドを育てた男": [
+        "ピアノフォルテ": [
             "KBCシネマ"
         ],
-        "ピアノフォルテ": [
+        "ブライアン・エプスタイン 世界最高のバンドを育てた男": [
             "KBCシネマ"
         ],
         "リビング・ラージ！": [
@@ -397,6 +399,10 @@ const currentMoviesWithTheaters = {
         "ザ・ザ・コルダのフェニキア計画": [
             "kino cinema天神"
         ],
+        "E.T.": [
+            "kino cinema天神",
+            "TOHOシネマズららぽーと福岡"
+        ],
         "ジュラシック・ワールド 復活の大地": [
             "kino cinema天神"
         ],
@@ -409,14 +415,10 @@ const currentMoviesWithTheaters = {
         "夏の終わりのクラシック": [
             "kino cinema天神"
         ],
-        "E.T.": [
-            "kino cinema天神",
-            "TOHOシネマズららぽーと福岡"
-        ],
-        "キス・ザ・フューチャー": [
+        "バレリーナ The World of John Wick": [
             "kino cinema天神"
         ],
-        "バレリーナ The World of John Wick": [
+        "キス・ザ・フューチャー": [
             "kino cinema天神"
         ],
         "レッド・ツェッペリン ビカミング": [
