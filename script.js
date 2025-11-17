@@ -132,9 +132,6 @@ const currentMoviesWithTheaters = {
         "もののけ姫": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
-            "KBCシネマ",
-            "kino cinema天神",
-            "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
@@ -147,6 +144,8 @@ const currentMoviesWithTheaters = {
         "平場の月": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
+            "KBCシネマ",
+            "kino cinema天神",
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
@@ -307,6 +306,15 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
+        "ナイトフラワー": [
+            "T・ジョイ博多",
+            "ユナイテッド・シネマ キャナルシティ",
+            "KBCシネマ",
+            "kino cinema天神",
+            "ユナイテッド・シネマ ふくおかももち",
+            "TOHOシネマズららぽーと福岡",
+            "TOHOシネマズ天神・ソラリア館"
+        ],
         "面白すぎてヤバい映画": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
@@ -448,9 +456,6 @@ const currentMoviesWithTheaters = {
         "ひとりで生きる": [
             "KBCシネマ"
         ],
-        "ぼくら、20世紀の子供たち": [
-            "KBCシネマ"
-        ],
         "SPIRIT WORLD スピリットワールド": [
             "kino cinema天神"
         ],
@@ -459,9 +464,6 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡"
         ],
         "フレッシュ・デリ": [
-            "kino cinema天神"
-        ],
-        "ブレイカウェイ": [
             "kino cinema天神"
         ],
         "アダムズ・アップル": [
