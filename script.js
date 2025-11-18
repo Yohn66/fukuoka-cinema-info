@@ -469,9 +469,6 @@ const currentMoviesWithTheaters = {
         "アダムズ・アップル": [
             "kino cinema天神"
         ],
-        "メン＆チキン": [
-            "kino cinema天神"
-        ],
         "モンテ・クリスト伯": [
             "ユナイテッド・シネマ ふくおかももち"
         ],
