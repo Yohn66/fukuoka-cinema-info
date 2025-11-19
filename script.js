@@ -387,9 +387,6 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "INFINITE 15TH ANNIVERSARY CONCERT LIMITED EDITION THE MOVIE": [
-            "ユナイテッド・シネマ キャナルシティ"
-        ],
         "愚か者の身分": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
@@ -453,9 +450,6 @@ const currentMoviesWithTheaters = {
         "非常戒厳前夜": [
             "KBCシネマ"
         ],
-        "ひとりで生きる": [
-            "KBCシネマ"
-        ],
         "SPIRIT WORLD スピリットワールド": [
             "kino cinema天神"
         ],
@@ -463,10 +457,14 @@ const currentMoviesWithTheaters = {
             "kino cinema天神",
             "TOHOシネマズららぽーと福岡"
         ],
-        "フレッシュ・デリ": [
-            "kino cinema天神"
+        "ウエスト・サイド物語": [
+            "kino cinema天神",
+            "TOHOシネマズららぽーと福岡"
         ],
         "アダムズ・アップル": [
+            "kino cinema天神"
+        ],
+        "ロイヤル・アフェア 愛と欲望の王宮": [
             "kino cinema天神"
         ],
         "モンテ・クリスト伯": [
@@ -481,7 +479,17 @@ const currentMoviesWithTheaters = {
         "ラブル＆クルー IN シアター": [
             "ユナイテッド・シネマ ふくおかももち"
         ],
+        "TOKYOタクシー": [
+            "TOHOシネマズららぽーと福岡"
+        ],
+        "果てしなきスカーレット": [
+            "TOHOシネマズららぽーと福岡",
+            "TOHOシネマズ天神・ソラリア館"
+        ],
         "阪神タイガース THE OFFICIAL MOVIE 2025 栄光の虎道（こどう）": [
+            "TOHOシネマズららぽーと福岡"
+        ],
+        "地球攻撃命令 ゴジラ対ガイガン": [
             "TOHOシネマズららぽーと福岡"
         ]
 
