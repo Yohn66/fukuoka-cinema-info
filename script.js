@@ -445,9 +445,6 @@ const currentMoviesWithTheaters = {
         "バレンと小刀 時代をつなぐ浮世絵物語": [
             "KBCシネマ"
         ],
-        "非常戒厳前夜": [
-            "KBCシネマ"
-        ],
         "Eno": [
             "KBCシネマ"
         ],
@@ -475,9 +472,6 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡"
         ],
         "フレッシュ・デリ": [
-            "kino cinema天神"
-        ],
-        "偽りなき者": [
             "kino cinema天神"
         ],
         "アフター・ウェディング": [
