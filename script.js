@@ -96,10 +96,10 @@ const currentMoviesWithTheaters = {
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡"
         ],
-        "Ryuichi Sakamoto: Diaries": [
+        "仮面ライダーガヴ ギルティ・パルフェ": [
             "T・ジョイ博多"
         ],
-        "仮面ライダーガヴ ギルティ・パルフェ": [
+        "Ryuichi Sakamoto: Diaries": [
             "T・ジョイ博多"
         ],
         "タイタニック": [
@@ -407,10 +407,6 @@ const currentMoviesWithTheaters = {
         "GENERATIONS：The Documentary": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
-        "アイカツ！×プリパラ THE MOVIE 出会いのキセキ！": [
-            "ユナイテッド・シネマ キャナルシティ",
-            "ユナイテッド・シネマ ふくおかももち"
-        ],
         "満江紅 マンジャンホン": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
@@ -442,13 +438,13 @@ const currentMoviesWithTheaters = {
         "マーク・アントニー": [
             "KBCシネマ"
         ],
+        "MEMORIES": [
+            "KBCシネマ"
+        ],
         "視える": [
             "KBCシネマ"
         ],
         "はだしのゲンはまだ怒っている": [
-            "KBCシネマ"
-        ],
-        "MEMORIES": [
             "KBCシネマ"
         ],
         "エレファント・ゴッド": [
@@ -478,12 +474,12 @@ const currentMoviesWithTheaters = {
         "そこにきみはいて": [
             "kino cinema天神"
         ],
-        "旅と日々": [
-            "kino cinema天神"
-        ],
         "落下の王国 4Kデジタルリマスター": [
             "kino cinema天神",
             "ユナイテッド・シネマ ふくおかももち"
+        ],
+        "旅と日々": [
+            "kino cinema天神"
         ],
         "ウエスト・サイド物語": [
             "kino cinema天神",
