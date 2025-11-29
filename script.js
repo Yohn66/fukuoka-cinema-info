@@ -312,7 +312,7 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "WEAPONS ウェポンズ": [
+        "問題です。": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "KBCシネマ",
@@ -384,6 +384,9 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
+        "WEAPONS ウェポンズ": [
+            "ユナイテッド・シネマ キャナルシティ"
+        ],
         "佐藤さんと佐藤さん": [
             "ユナイテッド・シネマ キャナルシティ",
             "kino cinema天神"
@@ -419,9 +422,6 @@ const currentMoviesWithTheaters = {
         ],
         "ドアーズ まぼろしの世界": [
             "ユナイテッド・シネマ キャナルシティ"
-        ],
-        "PERFECT BLUE パーフェクトブルー": [
-            "KBCシネマ"
         ],
         "ボンヘッファー ヒトラーを暗殺しようとした牧師": [
             "KBCシネマ"
