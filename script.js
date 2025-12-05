@@ -99,7 +99,7 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "果てしなきスカーレット": [
+        "ナイトフラワー": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "KBCシネマ",
@@ -108,7 +108,7 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "ナイトフラワー": [
+        "果てしなきスカーレット": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "KBCシネマ",
@@ -229,9 +229,6 @@ const currentMoviesWithTheaters = {
         "超特急 The Movie RE:VE": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ ふくおかももち"
-        ],
-        "ONE IN A MILL10N": [
-            "T・ジョイ博多"
         ],
         "UVERworld THE MOVIE: 25 to EPIPHANY": [
             "T・ジョイ博多",
@@ -428,9 +425,6 @@ const currentMoviesWithTheaters = {
             "KBCシネマ"
         ],
         "音楽サロン": [
-            "KBCシネマ"
-        ],
-        "チャルラータ": [
             "KBCシネマ"
         ],
         "ビッグ・シティ": [
