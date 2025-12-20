@@ -468,9 +468,6 @@ const currentMoviesWithTheaters = {
             "kino cinema天神",
             "TOHOシネマズららぽーと福岡"
         ],
-        "12月の君へ": [
-            "kino cinema天神"
-        ],
         "ラブ・アクチュアリー": [
             "kino cinema天神"
         ],
