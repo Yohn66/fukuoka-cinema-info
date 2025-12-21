@@ -54,13 +54,6 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "新解釈・幕末伝": [
-            "T・ジョイ博多",
-            "ユナイテッド・シネマ キャナルシティ",
-            "ユナイテッド・シネマ ふくおかももち",
-            "TOHOシネマズららぽーと福岡",
-            "TOHOシネマズ天神・ソラリア館"
-        ],
         "作品情報を見る": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
@@ -69,20 +62,6 @@ const currentMoviesWithTheaters = {
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
-        ],
-        "アバター ファイヤー・アンド・アッシュ": [
-            "T・ジョイ博多",
-            "ユナイテッド・シネマ キャナルシティ",
-            "ユナイテッド・シネマ ふくおかももち",
-            "TOHOシネマズららぽーと福岡"
-        ],
-        "ビューティフル・ジャーニー ふたりの時空旅行": [
-            "T・ジョイ博多",
-            "ユナイテッド・シネマ キャナルシティ",
-            "kino cinema天神"
-        ],
-        "初恋芸人": [
-            "T・ジョイ博多"
         ],
         "ズートピア2": [
             "T・ジョイ博多",
@@ -192,6 +171,13 @@ const currentMoviesWithTheaters = {
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡"
         ],
+        "新解釈・幕末伝": [
+            "T・ジョイ博多",
+            "ユナイテッド・シネマ キャナルシティ",
+            "ユナイテッド・シネマ ふくおかももち",
+            "TOHOシネマズららぽーと福岡",
+            "TOHOシネマズ天神・ソラリア館"
+        ],
         "MGA MAGICAL 10 YEARS ANNIVERSARY LIVE FJORD（フィヨルド） ON SCREEN": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
@@ -205,15 +191,29 @@ const currentMoviesWithTheaters = {
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ"
         ],
+        "アバター ファイヤー・アンド・アッシュ": [
+            "T・ジョイ博多",
+            "ユナイテッド・シネマ キャナルシティ",
+            "ユナイテッド・シネマ ふくおかももち",
+            "TOHOシネマズららぽーと福岡"
+        ],
         "UVERworld THE MOVIE: 25 to EPIPHANY": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "ユナイテッド・シネマ ふくおかももち"
         ],
+        "ビューティフル・ジャーニー ふたりの時空旅行": [
+            "T・ジョイ博多",
+            "ユナイテッド・シネマ キャナルシティ",
+            "kino cinema天神"
+        ],
         "仮面ライダーガヴ ギルティ・パルフェ": [
             "T・ジョイ博多"
         ],
         "ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第2章": [
+            "T・ジョイ博多"
+        ],
+        "初恋芸人": [
             "T・ジョイ博多"
         ],
         "j-hope Tour 'HOPE ON THE STAGE' THE MOVIE": [
@@ -381,6 +381,14 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
+        "Nissy Entertainment “Re:10th Anniversary Final” BEST DOME TOUR “The Movie”": [
+            "ユナイテッド・シネマ キャナルシティ",
+            "ユナイテッド・シネマ ふくおかももち"
+        ],
+        "Nissy Documentary Movie “Re:10th Anniversary Final” BEST DOME TOUR": [
+            "ユナイテッド・シネマ キャナルシティ",
+            "ユナイテッド・シネマ ふくおかももち"
+        ],
         "悪魔祓い株式会社": [
             "ユナイテッド・シネマ キャナルシティ",
             "kino cinema天神"
@@ -407,17 +415,6 @@ const currentMoviesWithTheaters = {
             "ユナイテッド・シネマ キャナルシティ",
             "ユナイテッド・シネマ ふくおかももち"
         ],
-        "Nissy Entertainment “Re:10th Anniversary Final” BEST DOME TOUR “The Movie”": [
-            "ユナイテッド・シネマ キャナルシティ",
-            "ユナイテッド・シネマ ふくおかももち"
-        ],
-        "Nissy Documentary Movie “Re:10th Anniversary Final” BEST DOME TOUR": [
-            "ユナイテッド・シネマ キャナルシティ",
-            "ユナイテッド・シネマ ふくおかももち"
-        ],
-        "ボディビルダー": [
-            "KBCシネマ"
-        ],
         "プラハの春 不屈のラジオ報道": [
             "KBCシネマ"
         ],
@@ -439,6 +436,9 @@ const currentMoviesWithTheaters = {
         "ジャグラー ニューヨーク25時": [
             "KBCシネマ"
         ],
+        "ボディビルダー": [
+            "KBCシネマ"
+        ],
         "女性の休日": [
             "KBCシネマ"
         ],
@@ -448,15 +448,12 @@ const currentMoviesWithTheaters = {
         "クリスマス・イブ・イン・ミラーズ・ポイント": [
             "KBCシネマ"
         ],
-        "星と月は天の穴": [
-            "kino cinema天神"
-        ],
-        "英国ロイヤル・バレエ＆オペラ in シネマ 2025/26 ロイヤル・オペラ「トスカ」": [
-            "kino cinema天神"
-        ],
         "落下の王国 4Kデジタルリマスター": [
             "kino cinema天神",
             "ユナイテッド・シネマ ふくおかももち"
+        ],
+        "星と月は天の穴": [
+            "kino cinema天神"
         ],
         "殺し屋のプロット": [
             "kino cinema天神"
@@ -472,6 +469,9 @@ const currentMoviesWithTheaters = {
             "kino cinema天神"
         ],
         "めまい（1958）": [
+            "kino cinema天神"
+        ],
+        "英国ロイヤル・バレエ＆オペラ in シネマ 2025/26 ロイヤル・オペラ「トスカ」": [
             "kino cinema天神"
         ],
         "MARINES DOCUMENTARY 2025 すべての敗れざる者たちへ": [
