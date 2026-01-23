@@ -79,6 +79,10 @@ const currentMoviesWithTheaters = {
             "ユナイテッド・シネマ ふくおかももち",
             "TOHOシネマズららぽーと福岡"
         ],
+        "アウトローズ": [
+            "T・ジョイ博多",
+            "ユナイテッド・シネマ キャナルシティ"
+        ],
         "インコンプリート・チェアーズ": [
             "T・ジョイ博多"
         ],
@@ -188,10 +192,10 @@ const currentMoviesWithTheaters = {
         "Black Box Diaries": [
             "T・ジョイ博多"
         ],
-        "ALL YOU NEED IS KILL": [
+        "羅小黒戦記2 ぼくらが望む未来": [
             "T・ジョイ博多"
         ],
-        "羅小黒戦記2 ぼくらが望む未来": [
+        "ALL YOU NEED IS KILL": [
             "T・ジョイ博多"
         ],
         "ガメラ2 レギオン襲来": [
@@ -437,13 +441,16 @@ const currentMoviesWithTheaters = {
         "世界一不運なお針子の人生最悪な1日": [
             "KBCシネマ"
         ],
-        "イエス イエスソングス ライヴ・イン・ロンドン1972": [
-            "KBCシネマ"
-        ],
         "汚れた血": [
             "KBCシネマ"
         ],
+        "イエス イエスソングス ライヴ・イン・ロンドン1972": [
+            "KBCシネマ"
+        ],
         "マッド・フェイト 狂運": [
+            "KBCシネマ"
+        ],
+        "シャルルとリュシー": [
             "KBCシネマ"
         ],
         "愛の喜びは": [
@@ -455,9 +462,6 @@ const currentMoviesWithTheaters = {
         "これからの私たち All Shall Be Well": [
             "KBCシネマ"
         ],
-        "シャルルとリュシー": [
-            "KBCシネマ"
-        ],
         "パパ・プティ・バトー": [
             "KBCシネマ"
         ],
@@ -465,6 +469,9 @@ const currentMoviesWithTheaters = {
             "kino cinema天神"
         ],
         "シネマ歌舞伎 歌舞伎NEXT 朧の森に棲む鬼 松也版": [
+            "kino cinema天神"
+        ],
+        "パリ・オペラ座 IN シネマ 2026 バレエ「くるみ割り人形」": [
             "kino cinema天神"
         ],
         "落下の王国 4Kデジタルリマスター": [
@@ -494,6 +501,9 @@ const currentMoviesWithTheaters = {
         ],
         "ティファニーで朝食を": [
             "kino cinema天神"
+        ],
+        "最強王図鑑 The Ultimate Tournament 特別編 テッペン決めようか！": [
+            "ユナイテッド・シネマ ふくおかももち"
         ],
         "CHA EUN-WOO: MEMORIES IN CINEMAS": [
             "ユナイテッド・シネマ ふくおかももち"
