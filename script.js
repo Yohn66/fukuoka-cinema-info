@@ -86,10 +86,10 @@ const currentMoviesWithTheaters = {
         "人狼 JIN-ROH": [
             "T・ジョイ博多"
         ],
-        "RIP SLYME THE MOVIE 25th ANNIVERSARY GREATEST MEMORY": [
+        "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕": [
             "T・ジョイ博多"
         ],
-        "ガールズ＆パンツァー もっとらぶらぶ作戦です！ 第3幕": [
+        "RIP SLYME THE MOVIE 25th ANNIVERSARY GREATEST MEMORY": [
             "T・ジョイ博多"
         ],
         "木挽町のあだ討ち": [
@@ -159,12 +159,12 @@ const currentMoviesWithTheaters = {
         "ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦": [
             "T・ジョイ博多"
         ],
-        "クライム101": [
+        "おさるのベン": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "ユナイテッド・シネマ ふくおかももち"
         ],
-        "おさるのベン": [
+        "クライム101": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "ユナイテッド・シネマ ふくおかももち"
@@ -189,18 +189,11 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズ天神・ソラリア館"
         ],
         "BE:the ONE START BEYOND DREAMS": [
-            "T・ジョイ博多",
-            "ユナイテッド・シネマ キャナルシティ",
-            "ユナイテッド・シネマ ふくおかももち"
+            "T・ジョイ博多"
         ],
         "東方神起 20th Anniversary Film「IDENTITY」": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ"
-        ],
-        "FUKUYAMA MASAHARU LIVE FILM@NAGASAKI 月光 ずっとこの光につながっていたんだ": [
-            "T・ジョイ博多",
-            "ユナイテッド・シネマ キャナルシティ",
-            "ユナイテッド・シネマ ふくおかももち"
         ],
         "ENHYPEN [WALK THE LINE SUMMER EDITION] IN CINEMAS": [
             "T・ジョイ博多",
@@ -210,15 +203,8 @@ const currentMoviesWithTheaters = {
         "超時空英雄伝エイリアノイド PART2：終局決戦": [
             "T・ジョイ博多"
         ],
-        "白蛇：浮生 巡りめぐる運命の赤い糸": [
-            "T・ジョイ博多"
-        ],
         "ヒプノシスマイク Division Rap Battle": [
             "T・ジョイ博多"
-        ],
-        "コードギアス 亡国のアキト 第2章「引き裂かれし翼竜」": [
-            "T・ジョイ博多",
-            "ユナイテッド・シネマ キャナルシティ"
         ],
         "アイカツ！ 10th STORY 未来へのSTARWAY": [
             "T・ジョイ博多",
@@ -314,6 +300,15 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
+        "今年の“設定面白いで賞”第1位候補": [
+            "T・ジョイ博多",
+            "ユナイテッド・シネマ キャナルシティ",
+            "KBCシネマ",
+            "kino cinema天神",
+            "ユナイテッド・シネマ ふくおかももち",
+            "TOHOシネマズららぽーと福岡",
+            "TOHOシネマズ天神・ソラリア館"
+        ],
         "映画　えんとつ町のプペル　約束の時計台": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
@@ -342,15 +337,6 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズ天神・ソラリア館"
         ],
         "この映画、大傑作かもしれない": [
-            "T・ジョイ博多",
-            "ユナイテッド・シネマ キャナルシティ",
-            "KBCシネマ",
-            "kino cinema天神",
-            "ユナイテッド・シネマ ふくおかももち",
-            "TOHOシネマズららぽーと福岡",
-            "TOHOシネマズ天神・ソラリア館"
-        ],
-        "今年の“設定面白いで賞”第1位候補": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "KBCシネマ",
@@ -426,9 +412,6 @@ const currentMoviesWithTheaters = {
         "純愛上等！": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
-        "ローリング・ストーンズ・アット・ザ・マックス": [
-            "ユナイテッド・シネマ キャナルシティ"
-        ],
         "死の天使 ヨーゼフ・メンゲレ": [
             "KBCシネマ"
         ],
@@ -441,9 +424,6 @@ const currentMoviesWithTheaters = {
         "黒の牛": [
             "KBCシネマ"
         ],
-        "幻愛 夢の向こうに": [
-            "KBCシネマ"
-        ],
         "私のすべて": [
             "KBCシネマ"
         ],
@@ -454,6 +434,9 @@ const currentMoviesWithTheaters = {
             "KBCシネマ"
         ],
         "愛がきこえる": [
+            "KBCシネマ"
+        ],
+        "結婚の報告": [
             "KBCシネマ"
         ],
         "しあわせな選択": [
@@ -475,37 +458,22 @@ const currentMoviesWithTheaters = {
             "kino cinema天神",
             "TOHOシネマズららぽーと福岡"
         ],
-        "五十年目の俺たちの旅": [
-            "kino cinema天神"
-        ],
         "罪人たち": [
             "kino cinema天神"
         ],
         "ひゃくえむ。": [
             "kino cinema天神"
         ],
-        "スペルマゲドン 精なる大冒険": [
-            "kino cinema天神"
-        ],
-        "たしかにあった幻": [
-            "kino cinema天神"
-        ],
         "落下の王国 4Kデジタルリマスター": [
-            "kino cinema天神"
-        ],
-        "トゥギャザー": [
             "kino cinema天神"
         ],
         "シャドウズ・エッジ": [
             "kino cinema天神"
         ],
-        "FRÉWAKA フレワカ": [
+        "14歳の栞": [
             "kino cinema天神"
         ],
         "次元を超える": [
-            "kino cinema天神"
-        ],
-        "14歳の栞": [
             "kino cinema天神"
         ]
 
