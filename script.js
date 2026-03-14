@@ -458,9 +458,6 @@ const currentMoviesWithTheaters = {
         "ひゃくえむ。": [
             "kino cinema天神"
         ],
-        "落下の王国 4Kデジタルリマスター": [
-            "kino cinema天神"
-        ],
         "シャドウズ・エッジ": [
             "kino cinema天神"
         ],
