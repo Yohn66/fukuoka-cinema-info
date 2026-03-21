@@ -406,9 +406,6 @@ const currentMoviesWithTheaters = {
         "宣誓": [
             "KBCシネマ"
         ],
-        "死の天使 ヨーゼフ・メンゲレ": [
-            "KBCシネマ"
-        ],
         "秒速5センチメートル（2007）": [
             "KBCシネマ"
         ],
@@ -475,9 +472,6 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡"
         ],
         "マクロスプラス MOVIE EDITION": [
-            "TOHOシネマズららぽーと福岡"
-        ],
-        "WE ARE Perfume WORLD TOUR 3rd DOCUMENT": [
             "TOHOシネマズららぽーと福岡"
         ]
 
