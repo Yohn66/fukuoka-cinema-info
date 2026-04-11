@@ -482,9 +482,6 @@ const currentMoviesWithTheaters = {
         "田村真子 のと鉄道 明日へ向かう旅": [
             "kino cinema天神"
         ],
-        "特攻の海 3Dが語る80年目の真実": [
-            "kino cinema天神"
-        ],
         "共に、世界一へ デフサッカー日本代表の軌跡": [
             "kino cinema天神"
         ],
