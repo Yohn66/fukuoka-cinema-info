@@ -94,7 +94,7 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "ハムネット": [
+        "ダーティ・エンジェルズ": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "KBCシネマ",
@@ -103,7 +103,7 @@ const currentMoviesWithTheaters = {
             "TOHOシネマズららぽーと福岡",
             "TOHOシネマズ天神・ソラリア館"
         ],
-        "ダーティ・エンジェルズ": [
+        "ハムネット": [
             "T・ジョイ博多",
             "ユナイテッド・シネマ キャナルシティ",
             "KBCシネマ",
@@ -392,9 +392,6 @@ const currentMoviesWithTheaters = {
         "夜勤事件 The Convenience Store": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
-        "HiGH&LOW THE MOVIE": [
-            "ユナイテッド・シネマ キャナルシティ"
-        ],
         "HiGH&LOW THE MOVIE 3 FINAL MISSION": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
@@ -453,10 +450,10 @@ const currentMoviesWithTheaters = {
         "炎かがよへ": [
             "kino cinema天神"
         ],
-        "シネマ歌舞伎 曽根崎心中": [
+        "ヒット・エンド・ファン！臨時決闘": [
             "kino cinema天神"
         ],
-        "ヒット・エンド・ファン！臨時決闘": [
+        "シネマ歌舞伎 曽根崎心中": [
             "kino cinema天神"
         ],
         "ひゃくえむ。": [
@@ -468,9 +465,6 @@ const currentMoviesWithTheaters = {
         "GHOST IN THE SHELL 攻殻機動隊": [
             "kino cinema天神",
             "TOHOシネマズららぽーと福岡"
-        ],
-        "14歳の栞": [
-            "kino cinema天神"
         ],
         "THE LAST PIECE Glow of Stars": [
             "kino cinema天神"
