@@ -386,7 +386,13 @@ const currentMoviesWithTheaters = {
         "夜勤事件 The Convenience Store": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
+        "DTC 湯けむり純情篇 from HiGH&LOW": [
+            "ユナイテッド・シネマ キャナルシティ"
+        ],
         "HiGH&LOW THE MOVIE 3 FINAL MISSION": [
+            "ユナイテッド・シネマ キャナルシティ"
+        ],
+        "HiGH&LOW THE MOVIE 2 END OF SKY": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
         "HiGH&LOW THE WORST": [
@@ -394,6 +400,15 @@ const currentMoviesWithTheaters = {
         ],
         "HiGH&LOW THE WORST X": [
             "ユナイテッド・シネマ キャナルシティ"
+        ],
+        "オールド・オーク": [
+            "KBCシネマ"
+        ],
+        "サムライ（1967）": [
+            "KBCシネマ"
+        ],
+        "スクラップ・ヘブン": [
+            "KBCシネマ"
         ],
         "炎上": [
             "KBCシネマ"
@@ -407,6 +422,9 @@ const currentMoviesWithTheaters = {
         "カミング・ホーム": [
             "KBCシネマ"
         ],
+        "金子文子 何が私をこうさせたか": [
+            "KBCシネマ"
+        ],
         "そして彼女たちは": [
             "KBCシネマ"
         ],
@@ -416,11 +434,23 @@ const currentMoviesWithTheaters = {
         "おしり前マン 復活のおしり前帝国": [
             "KBCシネマ"
         ],
+        "火葬人": [
+            "KBCシネマ"
+        ],
         "砂丘": [
             "KBCシネマ"
         ],
         "石炭の値打ち": [
             "KBCシネマ"
+        ],
+        "第五の騎士は恐怖": [
+            "KBCシネマ"
+        ],
+        "LOST LAND ロストランド": [
+            "kino cinema天神"
+        ],
+        "ビリー・アイドル パンク・ロッカーの反逆と代償": [
+            "kino cinema天神"
         ],
         "脛擦りの森": [
             "kino cinema天神"
@@ -439,10 +469,10 @@ const currentMoviesWithTheaters = {
             "kino cinema天神",
             "TOHOシネマズららぽーと福岡"
         ],
-        "ひゃくえむ。": [
+        "炎かがよへ": [
             "kino cinema天神"
         ],
-        "炎かがよへ": [
+        "ひゃくえむ。": [
             "kino cinema天神"
         ],
         "シネマ歌舞伎 曽根崎心中": [
@@ -452,6 +482,9 @@ const currentMoviesWithTheaters = {
             "kino cinema天神"
         ],
         "「ひゃくえむ。」メイキングドキュメンタリー 真剣（ガチ）になるため": [
+            "kino cinema天神"
+        ],
+        "大きな家": [
             "kino cinema天神"
         ],
         "THE LAST PIECE Glow of Stars": [
@@ -464,6 +497,9 @@ const currentMoviesWithTheaters = {
             "ユナイテッド・シネマ ふくおかももち"
         ],
         "ザ・スーパーマリオギャラクシー・ムービー": [
+            "TOHOシネマズららぽーと福岡"
+        ],
+        "最終楽章 響け！ユーフォニアム 前編": [
             "TOHOシネマズららぽーと福岡"
         ],
         "スペシャルズ": [
