@@ -195,10 +195,10 @@ const currentMoviesWithTheaters = {
         "ローグ・ワン スター・ウォーズ・ストーリー": [
             "T・ジョイ博多"
         ],
-        "スター・ウォーズ エピソード1 ファントム・メナス": [
+        "スター・ウォーズ スカイウォーカーの夜明け": [
             "T・ジョイ博多"
         ],
-        "スター・ウォーズ エピソード3 シスの復讐": [
+        "スター・ウォーズ エピソード1 ファントム・メナス": [
             "T・ジョイ博多"
         ],
         "スター・ウォーズ エピソード2 クローンの攻撃": [
@@ -213,13 +213,7 @@ const currentMoviesWithTheaters = {
         "スター・ウォーズ ジェダイの帰還": [
             "T・ジョイ博多"
         ],
-        "スター・ウォーズ スカイウォーカーの夜明け": [
-            "T・ジョイ博多"
-        ],
         "スター・ウォーズ 帝国の逆襲": [
-            "T・ジョイ博多"
-        ],
-        "ハン・ソロ スター・ウォーズ・ストーリー": [
             "T・ジョイ博多"
         ],
         "注目作品ランキング": [
@@ -420,9 +414,6 @@ const currentMoviesWithTheaters = {
         "HiGH&LOW THE MOVIE 2 END OF SKY": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
-        "HiGH&LOW THE WORST": [
-            "ユナイテッド・シネマ キャナルシティ"
-        ],
         "HiGH&LOW THE WORST X": [
             "ユナイテッド・シネマ キャナルシティ"
         ],
@@ -468,12 +459,12 @@ const currentMoviesWithTheaters = {
         "METライブビューイング2025-26 ワーグナー《トリスタンとイゾルデ》": [
             "kino cinema天神"
         ],
-        "脛擦りの森": [
-            "kino cinema天神"
-        ],
         "GHOST IN THE SHELL 攻殻機動隊": [
             "kino cinema天神",
             "TOHOシネマズららぽーと福岡"
+        ],
+        "脛擦りの森": [
+            "kino cinema天神"
         ],
         "クベーラ": [
             "kino cinema天神"
@@ -488,9 +479,6 @@ const currentMoviesWithTheaters = {
             "kino cinema天神"
         ],
         "「ひゃくえむ。」メイキングドキュメンタリー 真剣（ガチ）になるため": [
-            "kino cinema天神"
-        ],
-        "大きな家": [
             "kino cinema天神"
         ],
         "THE LAST PIECE Glow of Stars": [
