@@ -447,9 +447,6 @@ const currentMoviesWithTheaters = {
         "殺し屋1": [
             "KBCシネマ"
         ],
-        "花様年華": [
-            "KBCシネマ"
-        ],
         "済州島四・三事件 ハラン": [
             "KBCシネマ"
         ],
